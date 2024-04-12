@@ -1,0 +1,41 @@
+.navbar{
+    background-color:rgb(17, 41, 20);
+}
+.navbar-brand{
+    color: white;
+}
+.main{
+    background-color: rgb(73, 98, 99);
+}
+.card{
+    background-color: rgb(27, 26, 20);
+}
+.clo1{
+    height: 460px;
+}
+.topnav-centered a {
+    float: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+ 
+.body1{
+    height: 400px;
+}
+.body2{
+    height: 100px;
+}
+.body3{
+    height: 100px;
+}
+.body4{
+    height: 100px;
+}
+.body5{
+    height: 200px;
+}
+.text{
+    color: white;
+}
